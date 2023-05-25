@@ -12,7 +12,14 @@ I assist businesses in their journey to become data and insight-driven. Developi
 - Data Visualization tools: Microsoft Power BI, Tableau, Looker Data Studio, Alibaba FBI dashboards, Plotly, Seaborn
 - Digital Marketing Tools: Google Analytics, Facebook Business Manager, Google Ads, MailChimp
 
-# Porfolio
+# Portfolio
+Although I have real life experience in data analysis projects, due to company confidentiality issues I am showcasing my skills here with publicly available data or generated data. Here is my [portfolio](https://rukeshdutta.github.io/Rukesh-Portfolio/)
+
+## Python
+The Python projects in my data analyst portfolio demonstrate my proficiency in utilizing Python for various data analysis tasks. These projects showcase my skills in customer segmentation, customer cohorts analysis, recommendation systems, as well as price scraping and name matching. Each project provides unique insights into the power of Python in data analysis.
+
+## SQL
+
 
 # Contact me
 Get in touch with me at [Linkedin](https://www.linkedin.com/in/rukesh-dutta/) or [email](mailto:write2rukesh@gmail.com)
