@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**rukeshdutta/rukeshdutta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Heading 1
 
-Here are some ideas to get you started:
+## Heading 2
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Heading 3
+
+This is some example text.
+
+- List item 1
+- List item 2
+- List item 3
+
+**Bold text**
+
+*Italic text*
+
+[Link text](https://www.example.com)
+
+code block 
+```
+def portfolio(name,company):
+    return f'Hi,{name} from {company} please contact me at mailto:write2rukesh@gmail.com'
+```
